@@ -1,7 +1,7 @@
 let x = 300;
 let y = 300;
 let d = 100;
-let data = ["mango", "sandia", "uva", "mandarina"];
+let data = ["mango", "sandia", "litche", "mandarina"];
 let counter = 0;
 
 function setup() {
